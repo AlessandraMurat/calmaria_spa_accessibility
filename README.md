@@ -1,4 +1,4 @@
-# Calaria SPA - Acessibilidade
+# Calmaria SPA - Acessibilidade
 
 
 Projeto desenvolvido no curso de <b> Acessibilidade no HTML: escrevendo códigos semânticos para inclusão - Alura </b>, que visa aplicar as melhores práticas de acessibilidade ao site do Calmaria Spa, garantindo que ele seja inclusivo e fácil de navegar para todas as pessoas, independentemente de suas habilidades. 
