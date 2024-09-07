@@ -5,6 +5,8 @@ Projeto desenvolvido no curso de <b> Acessibilidade no HTML: escrevendo códigos
 
 Segue as diretizes da WCAG, otimizando o uso de ecnologias assistivas como leitores de tela e navegação por teclado.
 
+<img src="/assets/cover.png" alt="capa do projeto calmaria spa">
+
 <br/>
 
 ## Melhorias em Acessibilidade
@@ -19,6 +21,8 @@ Segue as diretizes da WCAG, otimizando o uso de ecnologias assistivas como leito
 - HTML5 semântico
 - CSS3
 - WCAG guidelines para acessibilidade
+- axe DevTools - Web Accessibility Testing
+- NVDA
 
   <br/>
 
