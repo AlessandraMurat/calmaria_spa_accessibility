@@ -4,6 +4,7 @@
 Projeto desenvolvido no curso de <b> Acessibilidade no HTML: escrevendo códigos semânticos para inclusão - Alura </b>, que visa aplicar as melhores práticas de acessibilidade ao site do Calmaria Spa, garantindo que ele seja inclusivo e fácil de navegar para todas as pessoas, independentemente de suas habilidades. 
 
 Segue as diretizes da WCAG, otimizando o uso de ecnologias assistivas como leitores de tela e navegação por teclado.
+
 <br/>
 
 <img src="/assets/cover.png" alt="capa do projeto calmaria spa">
